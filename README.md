@@ -18,6 +18,7 @@
 
 ## [Day05](https://github.com/inti-study-cpp-ds/Lee-Dong-geon/tree/main/Day05) 예외 처리
 * [C++ 예외처리 (Exception Handling, try catch)](https://blockdmask.tistory.com/55)
+* [참고하기 : C++ 이야기 서른두번째: 예외가 성능에 미치는 영향](https://yesarang.tistory.com/371)
 
 ## References
 * [모두의 코드 - C++](https://modoocode.com/134) : C++카테고리에서 각 문법들의 사용법이나 알고리즘 등을 공부 할 수 있다.
