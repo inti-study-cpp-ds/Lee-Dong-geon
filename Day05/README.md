@@ -81,8 +81,6 @@ a/b : 5
 Program End
 ```
 
-#### 예시2) "swap 함수에서 인자로 들어오는 값이 같을때"를 예외 처리 한다고 가정하자 (함수 내부에서 throw를 보내는 경우)
-
 ## References
 * [모두의 코드 - C++](https://modoocode.com/134) : C++카테고리에서 각 문법들의 사용법이나 알고리즘 등을 공부 할 수 있다.
 * [C++ 예외처리 (Exception Handling, try catch)](https://blockdmask.tistory.com/55)
